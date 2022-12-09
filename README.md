@@ -16,7 +16,5 @@ You can click the Preview link to take a look at your changes.
  - ⚒️ Now I'm working **CV**-based methods for **collective behavior** study of animals (especially birds) and **UAV**-related topics.
  - 🎆 My previous research was related to visual object tracking for UAV and UAM in complicated environments (especially night). 
  - 📫 Please feel free to contact me for communication and cooperation! 
- - 📧 [guangzezheng666@gmail.com](mailto:guangzezheng666@gmail.com)
- - 🏠 [Homepage](https://george-zhuang.github.io/) 
- - 📰 [Google scholar](https://scholar.google.com/citations?user=-kcZWRQAAAAJ&hl=en)
+ - 📧 [guangzezheng666@gmail.com](mailto:guangzezheng666@gmail.com) 🏠 [Homepage](https://george-zhuang.github.io/) 📰 [Google scholar](https://scholar.google.com/citations?user=-kcZWRQAAAAJ&hl=en)
 
